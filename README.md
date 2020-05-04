@@ -2,4 +2,5 @@
 
 Flutter On-boarding Slide Screen App.
 
-![alt text](assets/images/screen1.png)
+<img src="assets/images/screen1.png" height="100" width="100" />
+
